@@ -25,7 +25,7 @@ Hardware:
 ## Design Keyboard Layout
 After some internal discourse, I am currently looking at folowing a keyboard layout like this:
 
-![Keyboard Layout Picture]{/TinyKeeb/KeyboardLayout}
+![Alt Text](https://github.com/nafajardo/TinyKeeb/blob/master/KeyboardLayout/keyboard-layout.jpg)
 
 One presses shift on any of the letters to get the Capitol version of it, and shift on any other key to get the alternate ket on the bottom left of a given keykap. However, the bottom right of any given key can only be accessed when pressing the Fn button next to the spacebar, which is located on the left of the Fn key since I usually use my right thumb to press it.
 ## Decide on switches
