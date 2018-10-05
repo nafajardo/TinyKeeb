@@ -28,7 +28,11 @@ After some internal discourse, I am currently looking at folowing a keyboard lay
 ![Alt Text](https://github.com/nafajardo/TinyKeeb/blob/master/KeyboardLayout/keyboard-layout.jpg)
 
 One presses shift on any of the letters to get the Capitol version of it, and shift on any other key to get the alternate ket on the bottom left of a given keykap. However, the bottom right of any given key can only be accessed when pressing the Fn button next to the spacebar, which is located on the left of the Fn key since I usually use my right thumb to press it.
+
 ## Decide on switches
 ## Design PCB, if needed
 ## Design Case in CAD
+
+My case will revolve around utilizing cherry switches, a metal 1.5 mm switch layer, and some sort of cable interface. For my cad modeling, I will be using drawings based on my layour json files, produced by [Keyboard Layout Editor]{http://www.keyboard-layout-editor.com/#/} and switch models based off of [this]{https://grabcad.com/library/cherry-mx-switches-mx-1}.
+
 ## Fabricate Keyboard
