@@ -31,7 +31,8 @@ This keyboard utilizes another layer, that can only be access by pressing the fn
 
 I plugged in the raw JSON of this layout into [Plate Creator](http://builder.swillkb.com/), and produced a 2d version of the file that will turn into my plate layer.
 
-![Player Layer Raw]()
+
+![Player Layer Raw](https://github.com/nafajardo/TinyKeeb/blob/master/ReadMePics/2DCadOut.png)
 
 This now will be used in my CAD
 
@@ -43,7 +44,7 @@ My case will revolve around utilizing cherry switches, a metal 1.5 mm switch lay
 
 One of the more important aspects of this build for me is to produce some sort of keyboard that is both beautiful in design, and easy to take apart. For this reason, I would like to look into some sort of cool wood joining. After perusing [this book](http://metosexpo.free.fr/extra/wood_ebooks/others/The%20Joint%20Book.pdf), I have found an interesting joint I feel would be cool to implement:
 
-![Wood Joint Picture]()
+![Wood Joint Picture](https://github.com/nafajardo/TinyKeeb/blob/master/ReadMePics/Joint.png)
 
 So after a couple of hours of CAD, I came up with this:
 
