@@ -23,18 +23,34 @@ Hardware:
 * [Cherry MX Clear Switch](https://deskthority.net/wiki/Cherry_MX_Clear)
 
 ## Design Keyboard Layout
-After some internal discourse, I am currently looking at folowing a keyboard layout like this:
+After some internal discourse, I am currently looking at following a keyboard layout:
 
 ![Alt Text](https://github.com/nafajardo/TinyKeeb/blob/master/KeyboardLayout/keyboard-layout.jpg)
 
-One presses shift on any of the letters to get the Capitol version of it, and shift on any other key to get the alternate ket on the bottom left of a given keykap. However, the bottom right of any given key can only be accessed when pressing the Fn button next to the spacebar, which is located on the left of the Fn key since I usually use my right thumb to press it.
+This keyboard utilizes another layer, that can only be access by pressing the fn button on the right of the spacebar. This will allow me to have all the buttons on a full keyboard while retaining the size I want in this build. So in simpler terms, any function that is found on the bottom right of the key in the diagram can only be access when holding the Fn button.
 
-## Decide on switches
-## Design PCB, if needed
+I plugged in the raw JSON of this layout into [Plate Creator](http://builder.swillkb.com/), and produced a 2d version of the file that will turn into my plate layer.
+
+![Player Layer Raw]()
+
+This now will be used in my CAD
+
 ## Design Case in CAD
 
-My case will revolve around utilizing cherry switches, a metal 1.5 mm switch layer, and some sort of cable interface. For my cad modeling, I will be using drawings based on my layour json files, produced by [Keyboard Layout Editor]{http://www.keyboard-layout-editor.com/#/}. My 3D assemblies also include models from these resources:
+My case will revolve around utilizing cherry switches, a metal 1.5 mm switch layer, and some sort of cable interface. For my cad modeling, I will be using drawings based on the layered json files, produced by [Keyboard Layout Editor]{http://www.keyboard-layout-editor.com/#/}. My 3D assemblies also include models from these resources:
 * [Keycaps]{https://github.com/dankwookiee/Kieeboard}
 * [Cherry Switch]{https://grabcad.com/library/cherry-mx-switches-mx-1}.
 
+One of the more important aspects of this build for me is to produce some sort of keyboard that is both beautiful in design, and easy to take apart. For this reason, I would like to look into some sort of cool wood joining. After perusing [this book](http://metosexpo.free.fr/extra/wood_ebooks/others/The%20Joint%20Book.pdf), I have found an interesting joint I feel would be cool to implement:
+
+![Wood Joint Picture]()
+
+So after a couple of hours of CAD, I came up with this:
+
+![Angle Pic]()
+![Side Pic]()
+![Bottom Pic]()
+![Top Pic]()
+
+## Design PCB
 ## Fabricate Keyboard
