@@ -33,6 +33,8 @@ One presses shift on any of the letters to get the Capitol version of it, and sh
 ## Design PCB, if needed
 ## Design Case in CAD
 
-My case will revolve around utilizing cherry switches, a metal 1.5 mm switch layer, and some sort of cable interface. For my cad modeling, I will be using drawings based on my layour json files, produced by [Keyboard Layout Editor]{http://www.keyboard-layout-editor.com/#/} and switch models based off of [this]{https://grabcad.com/library/cherry-mx-switches-mx-1}.
+My case will revolve around utilizing cherry switches, a metal 1.5 mm switch layer, and some sort of cable interface. For my cad modeling, I will be using drawings based on my layour json files, produced by [Keyboard Layout Editor]{http://www.keyboard-layout-editor.com/#/}. My 3D assemblies also include models from these resources:
+* [Keycaps]{https://github.com/dankwookiee/Kieeboard}
+* [Cherry Switch]{https://grabcad.com/library/cherry-mx-switches-mx-1}.
 
 ## Fabricate Keyboard
