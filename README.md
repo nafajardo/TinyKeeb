@@ -56,5 +56,9 @@ So after a couple of hours of CAD, I came up with this:
 ![Bottom Pic](https://github.com/nafajardo/TinyKeeb/blob/master/ReadMePics/KABottom.JPG)
 ![Explode Pic](https://github.com/nafajardo/TinyKeeb/blob/master/ReadMePics/KAExplode.JPG)
 
+Adding a keyed version of the middle piece would render this:
+
+![Keyed Pic](https://github.com/nafajardo/TinyKeeb/blob/master/ReadMePics/KAKeyed.JPG)
+
 ## Design PCB
 ## Fabricate Keyboard
