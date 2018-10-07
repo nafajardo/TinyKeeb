@@ -51,10 +51,10 @@ One of the more important aspects of this build for me is to produce some sort o
 
 So after a couple of hours of CAD, I came up with this:
 
-![Angle Pic]()
-![Side Pic]()
-![Bottom Pic]()
-![Top Pic]()
+![Angle Pic](https://github.com/nafajardo/TinyKeeb/blob/master/ReadMePics/KAAngle.JPG)
+![Side Pic](https://github.com/nafajardo/TinyKeeb/blob/master/ReadMePics/KASide.JPG)
+![Bottom Pic](https://github.com/nafajardo/TinyKeeb/blob/master/ReadMePics/KABottom.JPG)
+![Explode Pic](https://github.com/nafajardo/TinyKeeb/blob/master/ReadMePics/KAExplode.JPG)
 
 ## Design PCB
 ## Fabricate Keyboard
