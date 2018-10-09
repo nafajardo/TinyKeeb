@@ -39,7 +39,7 @@ Output:
 
 This now will be used in my CAD designs. Note that in my settings I only wish to use costar stabilizers and dont want the notches for easy access to the internals of the switch. I want to lower the cost of fabricating the switch layer, due to budgeting reasons, and simple geometry is a factor when you design a metal plate to be fed into a CNC.
 
-## Design Case in CAD
+## Preliminary CAD designs
 
 My case will revolve around utilizing cherry switches, a metal 1.5 mm switch layer, and some sort of cable interface. For my cad modeling, I will be using drawings based on the layered json files, produced by [Keyboard Layout Editor]{http://www.keyboard-layout-editor.com/#/}. My 3D assemblies also include models from these resources:
 * [Keycaps]{https://github.com/dankwookiee/Kieeboard}
@@ -61,4 +61,9 @@ Adding a keyed version of the middle piece would render this:
 ![Keyed Pic](https://github.com/nafajardo/TinyKeeb/blob/master/ReadMePics/KAKeyed.JPG)
 
 ## Design PCB
-## Fabricate Keyboard
+Now that I have done some CAD on my design, I can use the size requirements from it to build a PCB. I have not made a PCB from scratch before, so I will be refering to [this guide](https://github.com/ruiqimao/keyboard-pcb-guide) in order to do it.
+
+### This is where I am at
+More will be coming as I keep designing the keyboard. I hope you have found any information you need so far, and please do not hesistate to reach out if you have any comments or questions on this guide/project :)
+
+- Nick
